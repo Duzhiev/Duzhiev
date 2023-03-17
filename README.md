@@ -3,9 +3,7 @@
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+there!)
-
 <br>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I`m+Frontend+-+developer.)
 
 <br>
